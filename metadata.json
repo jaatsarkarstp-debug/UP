@@ -1,0 +1,6 @@
+{
+  "name": "Up - Platform Jump Game",
+  "description": "An infinite 2D platform jumping game where you jump between platforms, avoid falling, and beat your high score.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
